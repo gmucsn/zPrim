@@ -1,0 +1,5 @@
+{
+"name":"testu",
+"type":"players",
+"players":["Peter Twieg","Evans Love"]
+}
